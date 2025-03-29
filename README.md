@@ -20,7 +20,7 @@ Build a task management application using React. This app allows users to create
 
 ### Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/task.git
+git clone https://github.com/shubham1893/task.git
 
 
 ### Step 2: Navigate to the Project Directory
